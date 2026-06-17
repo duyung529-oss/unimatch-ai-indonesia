@@ -1,0 +1,6 @@
+{
+  "name": "UniMatch AI Indonesia",
+  "description": "Platform AI Pemilihan Kampus dan Karier di Indonesia",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
